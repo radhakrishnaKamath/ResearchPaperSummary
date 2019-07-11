@@ -1,0 +1,9 @@
+*Conventions for highlighting*
+
+- References with Green
+- Paper's contribution and conventions in Red
+- Sub point's content in Pink
+- Sub sub point's content in Purple
+- Sub sub sub point's cntent in Blue
+- Specific examples in the bracket in Orange
+- Generalized stuff in Yellow
