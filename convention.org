@@ -7,3 +7,4 @@
 - Sub sub sub point's cntent in Blue
 - Specific examples in the bracket in Orange
 - Generalized stuff in Yellow
+- Assumptions, needs in Grey
